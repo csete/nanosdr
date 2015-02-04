@@ -17,4 +17,4 @@ include_directories(${CMAKE_SOURCE_DIR}/nanodsp/src)
 
 # Add subdirectories
 add_subdirectory(nanodsp)
-#add_subdirectory(nanorx)
+add_subdirectory(nanorx)
